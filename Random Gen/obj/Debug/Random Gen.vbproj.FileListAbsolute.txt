@@ -1,0 +1,10 @@
+c:\users\dennis\documents\visual studio 2012\Projects\Random Gen\Random Gen\bin\Debug\Random Gen.exe.config
+c:\users\dennis\documents\visual studio 2012\Projects\Random Gen\Random Gen\bin\Debug\Random Gen.exe
+c:\users\dennis\documents\visual studio 2012\Projects\Random Gen\Random Gen\bin\Debug\Random Gen.pdb
+c:\users\dennis\documents\visual studio 2012\Projects\Random Gen\Random Gen\bin\Debug\Random Gen.xml
+c:\users\dennis\documents\visual studio 2012\Projects\Random Gen\Random Gen\obj\Debug\Random_Gen.Form1.resources
+c:\users\dennis\documents\visual studio 2012\Projects\Random Gen\Random Gen\obj\Debug\Random_Gen.Resources.resources
+c:\users\dennis\documents\visual studio 2012\Projects\Random Gen\Random Gen\obj\Debug\Random Gen.vbproj.GenerateResource.Cache
+c:\users\dennis\documents\visual studio 2012\Projects\Random Gen\Random Gen\obj\Debug\Random Gen.exe
+c:\users\dennis\documents\visual studio 2012\Projects\Random Gen\Random Gen\obj\Debug\Random Gen.xml
+c:\users\dennis\documents\visual studio 2012\Projects\Random Gen\Random Gen\obj\Debug\Random Gen.pdb
